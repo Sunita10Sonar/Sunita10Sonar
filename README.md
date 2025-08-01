@@ -15,7 +15,7 @@
 
 - ☕ **CoffeeChain Sales (Power BI)** – Business insights dashboard on regional sales performance.  - [📈 Coffee Sales Dashboard (Power BI)](https://github.com/Sunita10Sonar/Coffee-Sales-PowerBI)
 
-- 🎥 **Movie Ratings Dashboard** – Visualized IMDb data using bar, bubble, and trend charts.   - [🎥 Movie Ratings Dashboard (Tableau)](https://github.com/Sunita10Sonar/)
+- 🎥 **Movie Ratings Dashboard** – Visualized IMDb data using bar, bubble, and trend charts.   - [🎥 Movie Ratings Dashboard (Tableau)](https://github.com/Sunita10Sonar/Movie-ratings-analysis)
 
 ---
 
