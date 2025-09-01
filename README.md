@@ -5,17 +5,22 @@
 
 ---
 
-## 🚀 Projects Highlights
+## 🚀 Projects Highlights  
 
-- 🧠 **Credit Card Fraud Detection** – Trained ML models to detect fraudulent transactions using imbalanced datasets.  - [🔍 Credit Card Fraud Detection](https://github.com/Sunita10Sonar/CreditCard-FraudDetection)
+- 🧠 [Credit Card Fraud Detection](https://github.com/Sunita10Sonar/CreditCard-FraudDetection)  
+  Trained ML models to detect fraudulent transactions using imbalanced datasets.  
 
-- 🌍 **Earthquake Analysis (Tableau)** – Interactive dashboard analyzing global seismic activity by region, magnitude, and time.  - [🌍 Earthquake Dashboard (Tableau)](https://github.com/Sunita10Sonar/Earthquake-Tableau-Dashboard)
+- 🌍 [Earthquake Dashboard (Tableau)](https://github.com/Sunita10Sonar/Earthquake-Tableau-Dashboard)  
+  Interactive dashboard analyzing global seismic activity by region, magnitude, and time.  
 
-- 🤖 **Image Recognition with PyTorch** – Built a CNN-based image classifier using PyTorch and GPU acceleration.  - [🧠 Image Recognition using PyTorch](https://github.com/Sunita10Sonar/Image-Recognition-ML-PyTorch)
+- 🤖 [Image Recognition using PyTorch](https://github.com/Sunita10Sonar/Image-Recognition-ML-PyTorch)  
+  Built a CNN-based image classifier using PyTorch and GPU acceleration.  
 
-- ☕ **CoffeeChain Sales (Power BI)** – Business insights dashboard on regional sales performance.  - [📈 Coffee Sales Dashboard (Power BI)](https://github.com/Sunita10Sonar/Coffee-Sales-PowerBI)
+- ☕ [Coffee Sales Dashboard (Power BI)](https://github.com/Sunita10Sonar/Coffee-Sales-PowerBI)  
+  Business insights dashboard on regional sales performance.  
 
-- 🎥 **Movie Ratings Dashboard** – Visualized IMDb data using bar, bubble, and trend charts.   - [🎥 Movie Ratings Dashboard (Tableau)](https://github.com/Sunita10Sonar/Movie-ratings-analysis)
+- 🎥 [Movie Ratings Dashboard](https://github.com/Sunita10Sonar/Movie-Ratings-Analysis)  
+  Visualized IMDb data using bar, bubble, and trend charts.  
 
 ---
 
