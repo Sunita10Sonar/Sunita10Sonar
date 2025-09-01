@@ -34,7 +34,7 @@
 **Languages**: Python, SQL, HTML  
 **Libraries**: Pandas, NumPy, Matplotlib, Scikit-learn, PyTorch  
 **Tools**: Jupyter Notebook, Tableau, Power BI, Excel  
-**Other**: Git, GitHub, VS Code, Canva, Sora by OpenAI
+**Other**: Git, GitHub, VS Code, Canva
 
 ---
 
