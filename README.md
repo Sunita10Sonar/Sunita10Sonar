@@ -7,20 +7,25 @@
 
 ## 🚀 Projects Highlights  
 
+### 🤖 Machine Learning & AI  
 - 🧠 [Credit Card Fraud Detection](https://github.com/Sunita10Sonar/CreditCard-FraudDetection)  
   Trained ML models to detect fraudulent transactions using imbalanced datasets.  
-
-- 🌍 [Earthquake Dashboard (Tableau)](https://github.com/Sunita10Sonar/Earthquake-Tableau-Dashboard)  
-  Interactive dashboard analyzing global seismic activity by region, magnitude, and time.  
 
 - 🤖 [Image Recognition using PyTorch](https://github.com/Sunita10Sonar/Image-Recognition-ML-PyTorch)  
   Built a CNN-based image classifier using PyTorch and GPU acceleration.  
 
-- ☕ [Coffee Sales Dashboard (Power BI)](https://github.com/Sunita10Sonar/Coffee-Sales-PowerBI)  
+---
+
+### 📊 Business Intelligence & Dashboards  
+- 🌍 [Earthquake Dashboard (Tableau)](https://github.com/Sunita10Sonar/Earthquake-Tableau-Dashboard)  
+  Interactive dashboard analyzing global seismic activity by region, magnitude, and time.  
+
+- ☕ [Coffee Sales Dashboard (Power BI)](https://github.com/Sunita10Sonar/Coffee-Sales-PowerBI) 
   Business insights dashboard on regional sales performance.  
 
 - 🎥 [Movie Ratings Dashboard](https://github.com/Sunita10Sonar/Movie-Ratings-Analysis)  
   Visualized IMDb data using bar, bubble, and trend charts.  
+ 
 
 ---
 
