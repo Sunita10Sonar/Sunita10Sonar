@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sunita Sonar  
 
-🎓 MSc Data Science | 💻 BSc Computer Science | 📊 Data Analyst & Machine Learning Enthusiast  
+🎓 MSc Data Science | BSc Computer Science | 📊 Data Analyst & Machine Learning Enthusiast  
 
 ---
 
@@ -23,13 +23,13 @@ I’m a passionate **Data Science postgraduate** skilled in transforming data in
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| 🧠 [AI Image Recognition Model](https://github.com/Sunita10Sonar/Image-Recognition-AI-Model) | Built and trained a CNN model to classify images of cats and dogs using TensorFlow and Keras | Python, Deep Learning |
-| 💳 [Credit Card Fraud Detection](https://github.com/Sunita10Sonar/CreditCard-Fraud-Detection) | Designed ML pipeline to detect fraudulent transactions using imbalance-handling techniques | Python, Scikit-learn |
-| 🌍 [Earthquake Data Visualization Dashboard](https://github.com/Sunita10Sonar/Earthquake-Data-Analysis) | Interactive dashboard displaying earthquake patterns and statistics | Python, Plotly, Dash |
-| ☕ [Coffee Chain Sales Dashboard](https://github.com/Sunita10Sonar/CoffeeChain-Tableau-Dashboard) | Tableau dashboard visualizing KPIs and sales trends across regions | Tableau |
-| 🦠 [COVID-19 Data Analysis](https://github.com/Sunita10Sonar/Covid19-Data-Analysis) | Analyzed real-time data to study the spread of COVID-19 globally | Python, Pandas, Matplotlib |
+| 🧠 [AI Image Recognition Model](https://github.com/Sunita10Sonar/CNN_Image_Classification_Cat_vs_Dog) | Built and trained a CNN model to classify images of cats and dogs using TensorFlow and Keras | Python, Deep Learning |
+| 💳 [Credit Card Fraud Detection](https://github.com/Sunita10Sonar/Credit-Card-Fraud-Detection) | Designed ML pipeline to detect fraudulent transactions using imbalance-handling techniques | Python, Scikit-learn |
+| 🌍 [Earthquake Data Visualization Dashboard](https://github.com/Sunita10Sonar/Earthquake-Dashboard-Tableau) | Interactive dashboard displaying earthquake patterns and statistics | Python, Plotly, Dash |
+| ☕ [Coffee Chain Sales Dashboard](https://github.com/Sunita10Sonar/Coffee-Sales-PowerBI) | Tableau dashboard visualizing KPIs and sales trends across regions | Tableau |
+| 🦠 [COVID-19 Data Analysis](https://github.com/Sunita10Sonar/Covid-19-Data-Analysis) | Analyzed real-time data to study the spread of COVID-19 globally | Python, Pandas, Matplotlib |
 
-➡️ **Explore all my projects here:** [📁 View Full Portfolio Repository](https://github.com/Sunita10Sonar/Data-Science-Portfolio)
+➡️ **Explore all my projects here:** [📁 View Full Portfolio Repository](https://github.com/Sunita10Sonar/Data_Science_Portfolio)
 
 ---
 
