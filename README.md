@@ -1,46 +1,48 @@
-# 👋 Hi, I'm Sunita Sonar!
+# 👋 Hi, I'm Sunita Sonar  
 
-🎓 MSc Data Science | 💡 Data Analyst Intern | 📊 Tableau & Power BI Enthusiast  
-🔍 Exploring AI, Machine Learning, and Analytics to solve real-world problems.
-
----
-
-## 🚀 Projects Highlights  
-
-### 🤖 Machine Learning & AI  
-- 🧠 [Credit Card Fraud Detection](https://github.com/Sunita10Sonar/CreditCard-FraudDetection)  
-  Trained ML models to detect fraudulent transactions using imbalanced datasets.  
-
-- 🤖 [Image Recognition using PyTorch](https://github.com/Sunita10Sonar/Image-Recognition-ML-PyTorch)  
-  Built a CNN-based image classifier using PyTorch and GPU acceleration.  
+🎓 MSc Data Science | 💻 BSc Computer Science | 📊 Data Analyst & Machine Learning Enthusiast  
 
 ---
 
-### 📊 Business Intelligence & Dashboards  
-- 🌍 [Earthquake Dashboard (Tableau)](https://github.com/Sunita10Sonar/Earthquake-Tableau-Dashboard)  
-  Interactive dashboard analyzing global seismic activity by region, magnitude, and time.  
+### 🚀 About Me  
+I’m a passionate **Data Science postgraduate** skilled in transforming data into actionable insights and building intelligent systems. I enjoy working on **data analytics, machine learning, and deep learning** projects — turning real-world challenges into impactful, data-driven solutions.  
 
-- ☕ [Coffee Sales Dashboard (Power BI)](https://github.com/Sunita10Sonar/Coffee-Sales-PowerBI) 
-  Business insights dashboard on regional sales performance.  
-
-- 🎥 [Movie Ratings Dashboard](https://github.com/Sunita10Sonar/Movie-Ratings-Analysis)  
-  Visualized IMDb data using bar, bubble, and trend charts.  
- 
+💡 What drives me: Curiosity, continuous learning, and solving meaningful problems with data.  
 
 ---
 
-## 🛠️ Tech Stack
+### 🧠 Technical Skills  
+- **Programming & Tools:** Python, SQL, Excel, Jupyter, Power BI, Tableau  
+- **Data Science & ML:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Matplotlib, Seaborn  
+- **Deep Learning:** CNNs, ANN, Image Classification, NLP basics  
+- **Other:** Git/GitHub, Data Visualization, Statistical Analysis  
 
-**Languages**: Python, SQL, HTML  
-**Libraries**: Pandas, NumPy, Matplotlib, Scikit-learn, PyTorch  
-**Tools**: Jupyter Notebook, Tableau, Power BI, Excel  
-**Other**: Git, GitHub, VS Code, Canva
+---
+
+### 🧩 Featured Projects  
+
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| 🧠 [AI Image Recognition Model](https://github.com/Sunita10Sonar/Image-Recognition-AI-Model) | Built and trained a CNN model to classify images of cats and dogs using TensorFlow and Keras | Python, Deep Learning |
+| 💳 [Credit Card Fraud Detection](https://github.com/Sunita10Sonar/CreditCard-Fraud-Detection) | Designed ML pipeline to detect fraudulent transactions using imbalance-handling techniques | Python, Scikit-learn |
+| 🌍 [Earthquake Data Visualization Dashboard](https://github.com/Sunita10Sonar/Earthquake-Data-Analysis) | Interactive dashboard displaying earthquake patterns and statistics | Python, Plotly, Dash |
+| ☕ [Coffee Chain Sales Dashboard](https://github.com/Sunita10Sonar/CoffeeChain-Tableau-Dashboard) | Tableau dashboard visualizing KPIs and sales trends across regions | Tableau |
+| 🦠 [COVID-19 Data Analysis](https://github.com/Sunita10Sonar/Covid19-Data-Analysis) | Analyzed real-time data to study the spread of COVID-19 globally | Python, Pandas, Matplotlib |
+
+➡️ **Explore all my projects here:** [📁 View Full Portfolio Repository](https://github.com/Sunita10Sonar/Data-Science-Portfolio)
 
 ---
 
-## 📫 Let's Connect!
-
-- 💼 [LinkedIn](https://linkedin.com/in/sunitasonar)  
-- 🧠 [GitHub Projects](https://github.com/Sunita10Sonar?tab=repositories)
+### 📫 Connect With Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sunitasonar/)  
+- 📧 Email: sunita23sonar@gmail.com  
+- 🐙 [GitHub](https://github.com/Sunita10Sonar)
 
 ---
+
+### ⚡ Fun Fact  
+> “Data is the new oil, and I love refining it into insights!” 🔍  
+
+---
+
+⭐ **If you like my work, don’t forget to star a few repos and connect with me!**
